@@ -13,7 +13,8 @@
 ##官网文档
 
 - [钉钉应用开发指南](https://open.dingtalk.com/document/orgapp/orgapp-development-process)
-- [钉钉酷应用开发指南]（https://open.dingtalk.com/document/orgapp/cool-application-overview）
+- [钉钉酷应用开发指南](https://open.dingtalk.com/document/orgapp/cool-application-overview)
+
 
 工具/组件
 
