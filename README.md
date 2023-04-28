@@ -58,6 +58,7 @@
 
 - [odooDingTalk](https://github.com/suxuefeng20/odooDingTalk) - Odoo 系统集成钉钉，采用 Python 开发
 - [dingtalk-app-server](https://github.com/nju-softeng/dingtalk-app-server) - 基于钉钉的实验室绩效管理系统 (Spring Boot)
+- [dingtalk-app-web](https://github.com/nju-softeng/dingtalk-app-web)  - 基于钉钉的实验室绩效管理系统前端系统
 
 
 ### 酷应用
