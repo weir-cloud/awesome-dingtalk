@@ -68,6 +68,5 @@
 - [Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - 基于 Go 语言实现的钉钉集成 ChatGPT 机器人
 - [chatgpt-dingtalk-bot](https://github.com/anyidea/chatgpt-dingtalk-bot) - 官方浏览器版 ChatGPT 集成到钉钉机器人, 支持单聊和群聊
 - [chatgpt-springboot-service](https://github.com/zccbbg/chatgpt-springboot-service) - 基于 Springboot 的一个后端服务，用于实时接收 ChatGPT 的消息，并通过 WebSocket 的方式实时反馈前端，基于Java开发
-
-
+- [drone-dingtalk-messageDrone](https://github.com/lddsb/drone-dingtalk-messageDrone) -- Drone CI的钉钉群组机器人通知插件
 
