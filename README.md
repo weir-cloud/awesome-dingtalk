@@ -20,7 +20,7 @@
 ### Java
 
 - [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin) - Dingtalk for jenkins
-- [open-dingtalk]（https://github.com/open-dingtalk/dingtalk-stream-sdk-java-quick-start）钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式。相比 Webhook 模式，Stream 模式可以更简单的接入各类事件和回调
+- [open-dingtalk] （https://github.com/open-dingtalk/dingtalk-stream-sdk-java-quick-start)  钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式。相比 Webhook 模式，Stream 模式可以更简单的接入各类事件和回调
 
 ### C#
 
