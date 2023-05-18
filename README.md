@@ -20,7 +20,7 @@
 ### Java
 
 - [jenkinsci/dingtalk-plugin](https://github.com/jenkinsci/dingtalk-plugin) - Dingtalk for jenkins
-- [open-dingtalk] （https://github.com/open-dingtalk/dingtalk-stream-sdk-java-quick-start)  钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式。相比 Webhook 模式，Stream 模式可以更简单的接入各类事件和回调
+- [open-dingtalk](https://github.com/open-dingtalk/dingtalk-stream-sdk-java-quick-start) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式。相比 Webhook 模式，Stream 模式可以更简单的接入各类事件和回调
 
 ### C#
 
@@ -37,7 +37,7 @@
 - [dingtalk-sdk](https://github.com/007gzs/dingtalk-sdk) - 钉钉 dingding Python SDK。 DingTalk SDK for Python
 - [sentry-dingding](https://github.com/aansheng/sentry-dingding) - Sentry钉钉通知
 - [dingtalk-python](https://github.com/blackmatrix7/dingtalk-python) - 钉钉第三方SDK，Python版本
-- [open-dingtalk]（https://github.com/open-dingtalk/dingtalk-stream-sdk-python）钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式。相比 Webhook 模式，Stream 模式可以更简单的接入各类事件和回调。
+- [open-dingtalk](https://github.com/open-dingtalk/dingtalk-stream-sdk-python) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式。相比 Webhook 模式，Stream 模式可以更简单的接入各类事件和回调。
 
 ### Node.js
 
@@ -51,7 +51,7 @@
 - [zhaoyunxing92/dingtalk](https://github.com/zhaoyunxing92/dingtalk) - Go版本的钉钉开发API
 - [fastwego/dingding](https://github.com/fastwego/dingding) - [钉钉] A fast dingding development sdk written in Golang
 - [prometheus-webhook-dingtalk](https://github.com/timonwong/prometheus-webhook-dingtalk) - DingTalk integration for Prometheus Alertmanager
-- [open-dingtalk]（https://github.com/open-dingtalk/dingtalk-stream-sdk-go）钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式。相比 Webhook 模式，Stream 模式可以更简单的接入各类事件和回调
+- [open-dingtalk](https://github.com/open-dingtalk/dingtalk-stream-sdk-go) 钉钉支持 Stream 模式接入事件推送、机器人收消息以及卡片回调，该 SDK 实现了 Stream 模式。相比 Webhook 模式，Stream 模式可以更简单的接入各类事件和回调
 
 ## 开源应用
 
